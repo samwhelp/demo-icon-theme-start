@@ -20,13 +20,13 @@
 
 | demo-icon-theme-category-size |
 | ----------------------------- |
-| [DemoCS-Dark](demo/demo-icon-theme-category-size/icons/DemoCS-Dark) |
-| [DemoCS-Light](demo/demo-icon-theme-category-size/icons/DemoCS-Light) |
+| [DemoCS-Dark](https://github.com/samwhelp/demo-icon-theme-start/tree/main/demo/demo-icon-theme-category-size/icons/DemoCS-Dark) |
+| [DemoCS-Light](https://github.com/samwhelp/demo-icon-theme-start/tree/main/demo/demo-icon-theme-category-size/icons/DemoCS-Light) |
 
 | demo-icon-theme-size-category |
 | ----------------------------- |
-| [DemoSC-Dark](demo/demo-icon-theme-size-category/icons/DemoSC-Dark) |
-| [DemoSC-Light](demo/demo-icon-theme-size-category/icons/DemoSC-Light) |
+| [DemoSC-Dark](https://github.com/samwhelp/demo-icon-theme-start/tree/main/demo/demo-icon-theme-size-category/icons/DemoSC-Dark) |
+| [DemoSC-Light](https://github.com/samwhelp/demo-icon-theme-start/tree/main/demo/demo-icon-theme-size-category/icons/DemoSC-Light) |
 
 
 
