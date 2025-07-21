@@ -25,8 +25,8 @@
 
 | demo-icon-theme-size-category |
 | ----------------------------- |
-| [DemoSC-Dark](demo/demo-icon-theme-category-size/icons/DemoSC-Dark) |
-| [DemoSC-Light](demo/demo-icon-theme-category-size/icons/DemoSC-Light) |
+| [DemoSC-Dark](demo/demo-icon-theme-size-category/icons/DemoSC-Dark) |
+| [DemoSC-Light](demo/demo-icon-theme-size-category/icons/DemoSC-Light) |
 
 
 
