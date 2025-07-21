@@ -5,6 +5,8 @@
 > demo-icon-theme-category-size
 
 
+
+
 ## Subject
 
 * [Source](#source)
@@ -27,3 +29,6 @@
 * GitHub / samwhelp / [theme-factory-canta](https://github.com/samwhelp/theme-factory-canta)
 * GitHub / samwhelp / deb-coffee / [bean-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-citrus-icon-theme/bean-appearance-citrus-icon-theme.pacscript)
 * GitHub / samwhelp / deb-coffee / [cook-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-recipe/blob/main/recipe/cook-appearance-citrus-icon-theme/cook-appearance-citrus-icon-theme/asset/installer.sh)
+* GitHub / BunsenLabs / [bunsen-numix-icon-theme](https://github.com/BunsenLabs/bunsen-numix-icon-theme)
+* GitHub / BunsenLabs / [bunsen-papirus-icon-theme](https://github.com/BunsenLabs/bunsen-papirus-icon-theme)
+* [Gtk Theming Guide](https://gtkthemingguide.surajmandal.in) ([GitHub](https://github.com/surajmandalcell/gtk-theming-guide))
